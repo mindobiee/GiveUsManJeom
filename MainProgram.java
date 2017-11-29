@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Vector;
 
-import test222.calculator;
+
 
 class MemoManager {//메모관리기능 
 	public static void start(Vector v) {
